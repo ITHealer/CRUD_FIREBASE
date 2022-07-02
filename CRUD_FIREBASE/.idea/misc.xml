@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/activity_sig_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/activity_sig_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/content_main.xml" value="0.11956521739130435" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/fragment_change_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/fragment_my_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/SQLiteAndroid/TincoderFirebase/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
